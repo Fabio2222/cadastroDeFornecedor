@@ -1,0 +1,10 @@
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\bin\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.exe.config
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\bin\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.exe
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\bin\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.pdb
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.FFormularioInicial.resources
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.Properties.Resources.resources
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.exe
+C:\Users\Fabio\source\repos\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI1.pdb
